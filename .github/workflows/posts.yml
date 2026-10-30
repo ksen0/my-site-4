@@ -28,7 +28,7 @@ jobs:
           {
             echo "---"
             echo "title: '$ISSUE_TITLE'"
-            echo "description: 'Auto-generated from issue #${ISSUE_NUMBER}'"
+            echo "description: 'Some other placeholder'"
             echo "pubDate: '$DATE'"
             echo "---"
             echo ""
